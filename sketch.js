@@ -68,8 +68,8 @@ function Spot(i, j) {
   }
 }
 // How many columns and rows?
-var cols = 15;
-var rows = 15;
+var cols = 45;
+var rows = 45;
 
 // This will the 2D array
 var grid = new Array(cols);
