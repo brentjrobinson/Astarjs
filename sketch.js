@@ -126,7 +126,7 @@ function setup() {
 }
 
 function draw() {
-
+text("Test", 800, 2000);
   // Am I still searching?
   if (openSet.length > 0) {
 
@@ -214,14 +214,9 @@ function draw() {
     temp = temp.previous;
   }
 
-
-  // for (var i = 0; i < path.length; i++) {
-    // path[i].show(color(0, 0, 255));
-  //}
-
   // Drawing path as continuous line
   noFill();
-  stroke(255, 0, 200);
+  stroke(0,191,255);
   strokeWeight(w / 2);
   beginShape();
   for (var i = 0; i < path.length; i++) {
@@ -229,6 +224,6 @@ function draw() {
   }
   endShape();
 
-
+ 
 
 }
