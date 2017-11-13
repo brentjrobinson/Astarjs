@@ -1,6 +1,6 @@
 # Astarjs.github.io
-A demonstration of the A* pathfinding algorithm 
+A demonstration of the A* pathfinding algorithm.
 View on :
 https://brentjrobinson.github.io/Astarjs/
 
-![Alt Text](https://gyazo.com/8153b0f00ea2e739cbe2c8210ec92363)
+[![https://gyazo.com/8153b0f00ea2e739cbe2c8210ec92363](https://i.gyazo.com/8153b0f00ea2e739cbe2c8210ec92363.gif)](https://gyazo.com/8153b0f00ea2e739cbe2c8210ec92363)
